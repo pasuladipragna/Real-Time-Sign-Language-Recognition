@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Real-Time Sign Language Recognition System
 
 This project aims to develop a real-time sign language recognition system using AI and computer vision techniques. It focuses on Indian Sign Language (ISL) and enables dynamic hand gesture recognition through a webcam or video input.
@@ -74,3 +75,6 @@ Contributions are welcome. Please fork the repo and submit a pull request.
 
 © 2025 Real-Time Sign Language Recognition | Built with ❤️ for inclusivity
 
+=======
+# Real-Time-Sign-Language-Recognition
+>>>>>>> 525dadbe255e89949c0433a89aef32345c8fba0d
